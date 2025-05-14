@@ -36,6 +36,9 @@ Summary Dashboard
 ![Bank_Summary](https://github.com/user-attachments/assets/3a4a21d1-6771-4ba1-9d42-72ab753df698)
 
 Overview Dashboard
+![overview](https://github.com/user-attachments/assets/4fd05ee9-d619-4b2b-ba36-983359e2a819)
 
 Details Dashboard
+![Detail](https://github.com/user-attachments/assets/1904681e-2aca-4b57-b741-27f3d856fba3)
+
 
