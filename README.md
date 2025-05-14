@@ -4,8 +4,8 @@ Welcome to the Bank Loan Analysis Power BI project repository! This project aims
 
 Overview
 This Power BI project analyzes various aspects of bank loans to provide valuable insights for decision-making. It comprises three main dashboards: Summary, Overview, and Details.
-
-Dashboard 1: Summary
+**
+Dashboard 1: Summary**
 Key Performance Indicators (KPIs) Requirements:
 Total Loan Applications: Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
 Total Funded Amount: Understand the total amount of funds disbursed as loans, monitor MTD Total Funded Amount, and analyze MoM changes.
@@ -15,7 +15,7 @@ Average Debt-to-Income Ratio (DTI): Evaluate the average DTI for borrowers, comp
 Summary Visualization:
 Loan Status Grid View: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 
-Dashboard 2: Overview
+**Dashboard 2: Overview**
 Monthly Trends by Issue Date (Line Chart): Identify seasonality and long-term trends in lending activities.
 Regional Analysis by State (Filled Map): Identify regions with significant lending activity and assess regional disparities.
 Loan Term Analysis (Donut Chart): Understand the distribution of loans across various term lengths.
@@ -26,19 +26,19 @@ Dashboard 3: Details
 Objective:
 The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios, borrower profiles, and loan performance.
 
-Dataset Used:
+**Dataset Used:**
 The bank loan analysis dataset comprises essential fields such as Loan ID, Address State, Purpose, Grade, Sub Grade, Annual Income, Loan Status, Last Payment Date, Verification Status, Debt-to-Income Ratio, and Interest Rates. These fields provide insights into borrower demographics, employment stability, loan characteristics, risk assessment, and payment behavior.
 
-Conclusion:
+**Conclusion:**
 The Details Dashboard streamlines access to critical loan data, facilitating informed decision-making, enhancing operational efficiency, optimizing lending strategies, mitigating risks, and maximizing overall performance.
 
-Summary Dashboard
+**Summary Dashboard**
 ![Bank_Summary](https://github.com/user-attachments/assets/3a4a21d1-6771-4ba1-9d42-72ab753df698)
 
-Overview Dashboard
+**Overview Dashboard**
 ![overview](https://github.com/user-attachments/assets/4fd05ee9-d619-4b2b-ba36-983359e2a819)
-
-Details Dashboard
+**
+Details Dashboard**
 ![Detail](https://github.com/user-attachments/assets/1904681e-2aca-4b57-b741-27f3d856fba3)
 
 
